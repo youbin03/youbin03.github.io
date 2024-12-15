@@ -1,7 +1,7 @@
 # About Me #
 
 <p align="center">
-  <img src="aboutmee.jpg" alt="Picture of Me" width="500">
+  <img src="aboutme.jpg" alt="Picture of Me" width="500">
 </p>
 
 Hello, my name is Youbin Park and I am a Junior studying Molecular & Cell Biology at University of Pennsylvania.
