@@ -3,6 +3,7 @@
 
 Welcome to my webpage, where I reflect on my work in COML 1650 for Fall 2024 semester. The mainpage includes the final reflection on the course. You can find links to all my work in the Portfolio page. I hope you enjoy!
 
+
 ## Main Reflection
 When I first enrolled in the class and looked at the title of the course, I expected this class to center around Artificial Intelligence and how the digital world has an impact on humanities. Also, as listed in the course detail, I expected to learn more about computer science and coding algorithms for data organization. However, after successfully completing the course, my thoughts on digital humanities have changed completely and I was able to learn the importance of digital data.
 
