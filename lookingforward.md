@@ -7,4 +7,4 @@ Inspired by the Printing in Prisons project and connecting to my future goal of 
 
 **Design a blog post about the medicine in prison through Github:** With the experience with Github from COML class and new learning from the computer science class, I would like to design a more professional blog post about this research topic. Similar to the blog post for this class, I would like to add an interactivity component to the blog post for the users to interact and form relationships with the data. I would also like to include a detailed analysis of roles that medical facilities played in the prison and their legacies now.
 
-Click [homepage] (https://youbin03.github.io/) to return to main page.
+Click [homepage](https://youbin03.github.io/) to return to main page.
