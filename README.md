@@ -1,7 +1,9 @@
+[About Me](aboutme.md)  |  [Portfolio](portfolio.md)
 # Youbin's Reflection
 ## Welcome!
 
-Welcome to my webpage, where I reflect on my work in COML 1650 for Fall 2024 semester. The mainpage includes the final reflection on the course. You can find links to all my work in the Portfolio page. I hope you enjoy!
+Welcome to my webpage, where I reflect on my work in COML 1650 for Fall 2024 semester. Through Introduction to Digital Humanities, I have learned a new field about how data are digitized and stored as well as how technologies and humanities intersect. I have worked this semester to visualize and present the stories behind the data. The mainpage includes the final reflection on the course. You can find links to all my work in the Portfolio page. I hope you enjoy!
+
 
 
 ## Main Reflection
