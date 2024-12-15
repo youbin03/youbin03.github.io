@@ -1,4 +1,4 @@
-[About Me](aboutme.md)  |  [Printing in Prison](https://printinginprisons.org/blog/parky/) | [EC Reflection] (ECReflection.md) | [Philadelphia Workshop](Philadelphiaworkshop.md) | [Penn Workshop](pennworkshop.md)
+[About Me](aboutme.md)  |  [Printing in Prison](https://printinginprisons.org/blog/parky/) | [EC Reflection](ECReflection.md) | [Philadelphia Workshop](Philadelphiaworkshop.md) | [Penn Workshop](pennworkshop.md)
 # Youbin's Reflection
 ## Welcome!
 
