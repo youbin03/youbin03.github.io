@@ -1,5 +1,8 @@
 # EC Reflection #
 
+<p align="center">
+  <img src="IMG_1219.jpg" alt="EC Image" width="300">
+</p>
 
 During our group’s visits to the Education Commons (EC), we had a chance to work with various tools (3D printer, NFC tag reader, makey makey) to present data in The Umpire interactively. The main goal of the project was to present the dataset with tangible objects that the users can touch and see the data. Our group aimed to utilize multiple tools so that the datasets are available in various formats so that lack of access to certain technology (phones or computers) does not prohibit the users from interacting with the data. Most importantly, we aimed for the users to “actively” interact with the data rather than “passively” looking at the data. 
 
